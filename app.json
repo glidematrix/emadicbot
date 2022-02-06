@@ -1,0 +1,16 @@
+{
+    "name": "Emadic Bot",
+    "description": "Telegram chat application",
+    "keywords": [
+        "telegram",
+        "bot"
+    ],
+    "repository": "https://github.com/glidematrix/emadicbot",
+    "website": "https://mundia.me/emadicbot",
+    "success_url": "https://t.me/EmadicBot",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Telegram Bot token from @BotFather"
+        }
+    }
+}
